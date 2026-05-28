@@ -1,0 +1,1 @@
+web: gunicorn tableau_final_fixed_flask_api:app
